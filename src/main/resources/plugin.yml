@@ -1,1 +1,6 @@
-
+name: StackBlock128
+version: 1.0
+main: me.phuc.StackBlock128
+api-version: 1.21
+author: WinX
+description: Allow default 64-stack blocks to stack up to 128
